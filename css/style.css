@@ -156,9 +156,73 @@ footer ul {
       font-weight: 400;
       line-height: normal;
 }
+.featured_works .container{
+      max-width: 855px;
+      margin: auto
+      
+   }
+  .featured_works_title {
+   color: var(--Dark-Color, #21243D);
+      font-family: 'Heebo', sans-serif;
+      font-size: 22px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 60px;
+      /* 272.727% */
+      margin-bottom: 22px;
+  }
+  .featured_works_foto {
+   max-width: 246px;
+   margin-right: 18px;
+   border-radius: 6px;
+  }
+  .featured_works_foto img {
+   width: 100%;
 
-   
-
+  }
+  .Designing_Dashboards {
+   color: var(--Dark-Color, #21243D);
+      font-family: 'Heebo', sans-serif;
+      font-size: 30px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: normal;
+     
+  }
+ .year {
+   color: #FFF;
+   background-color: #000;
+   border-radius: 10px;
+         font-family: 'Heebo', sans-serif;
+      font-size: 18px;
+      font-style: normal;
+      font-weight: 900;
+      line-height: 60px;
+      /* 333.333% */
+      
+      margin-right: 36px;
+ } 
+ .Hz {
+   color: var(--Light, #8695A4);
+      font-family: 'Heebo', sans-serif;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+ }
+ .featured_works_subtitle {
+   color: var(--Dark-Color, #21243D);
+      font-family: 'Heebo', sans-serif;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      max-width: 594px;
+     
+ }
+hr { margin-top: 15px;
+margin-bottom: 30px;
+}
 
 
 
